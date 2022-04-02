@@ -21,4 +21,4 @@ Easy! just change the image.jpg file with another image
 file
 
 # sample of executed code in pycharm you can use any other interpreater
-!["r/reddit image"](https://raw.githubusercontent.com/leyuskckiran1510/Reddit/master/ReadmeImage/projectScreenShot.png "r/place")
+!["r/reddit image"](https://raw.githubusercontent.com/leyuskckiran1510/Reddit/master/ReadmeImage/xWERY1VLtlWa.png "r/place")
