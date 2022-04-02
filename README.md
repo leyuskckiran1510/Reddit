@@ -19,3 +19,6 @@
 Easy! just change the image.jpg file with another image 
 # Note the image name must be image.jpg not .jpeg/.png/ .wepb/ .bmp if you want to put other format images you also have to change the file name in the bin.py 
 file
+
+# sample of executed code in pycharm you can use any other interpreater
+!["r/reddit image"](https://raw.githubusercontent.com/leyuskckiran1510/Reddit/master/ReadmeImage/projectScreenShot.png "r/place")
