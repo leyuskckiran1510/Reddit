@@ -1,7 +1,7 @@
 # Reddit
   Reddit r/place canvase automation.
   You can use it to draw you logo , picture or any shorts of picture in the reddit r/plce canvase
-!["r/reddit image"](url "Title")
+!["r/reddit image"](https://raw.githubusercontent.com/leyuskckiran1510/Reddit/master/ReadmeImage/redditcanvas.png "r/place")
 
 ##How to use
 1) Download the file or repo
